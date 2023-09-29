@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio02.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Button x:Name="Item1" Text="Navigation" BackgroundColor="Aqua"/>
+            <Button x:Name="Item2" Text="TabbedPage1" Background="Yellow"/>
+            <Button x:Name="Item3" Text="CarouselPage" BackgroundColor="Beige" />
+            <Button x:Name="Item4" Text="ModalPages" BackgroundColor="AntiqueWhite"/>
+            <Button x:Name="Item5" Text="DisplayAlert" BackgroundColor="AliceBlue"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
